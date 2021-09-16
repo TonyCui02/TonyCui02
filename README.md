@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Tony👋, a software engineering student at the University Of Auckland.
+
+
 
 <!--
 **TonyCui02/TonyCui02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
