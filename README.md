@@ -1,4 +1,4 @@
-### Hi, I'm Tony👋, a software engineering student passionate about coding and design.
+### Hi, I'm Tony👋, a software engineering student passionate about UX design and coding.
 
 
 
