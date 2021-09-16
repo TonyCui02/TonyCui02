@@ -1,4 +1,4 @@
-### Hi, I'm Tony👋, a software engineering student at the University Of Auckland.
+### Hi, I'm Tony👋, a software engineering student passionate about coding and design.
 
 
 
