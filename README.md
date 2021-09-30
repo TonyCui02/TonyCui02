@@ -1,4 +1,4 @@
-![Alt text](https://media1.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif?cid=ecf05e47s7nu41nfnseh16eogpbjn7ery1mb9teojpaqabi9&rid=giphy.gif&ct=g)
+
 ### Hi, I'm Tony👋, a software engineering student who also enjoys creating art.
 
 <!--
