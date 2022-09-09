@@ -1,6 +1,8 @@
 
 ### Hi, I'm Tony👋, a software engineering student who also enjoys creating art.
 
+Find out more about me and my projects by visiting my [web portfolio](https://tonycui.netlify.app/)
+
 <!--
 **TonyCui02/TonyCui02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
