@@ -1,5 +1,5 @@
 
-### Hi, I'm Tony👋, a software engineering student who also enjoys creating art.
+### Hi, I'm Tony👋, a software engineer who also enjoys creating art.
 
 Find out more about me and my projects by visiting my [web portfolio](https://tonycui.netlify.app/)
 
